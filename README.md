@@ -1,2 +1,2 @@
 # ohmyspacecraft
-OhMySpacecraft Edcational and Histroical Database Website
+OhMySpacecraft Educational and Historical Database Website
