@@ -1,0 +1,62 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="../globals/pics/mascot.png">
+  <title>OH MY SPACECRAFT</title>
+  <link rel="stylesheet" href="../globals/styles.css">
+  <script src="script.js"></script>
+</head>
+
+
+  
+<body>
+
+  <div id="container">
+  
+    <div id="header">
+      <h1>OH MY <br> SPACECRAFT</h1>
+    </div>
+
+    
+    <div id="nav1"><h4><a href="../index.html">HOME</a></h4></div>
+    <div id="nav2"><h4><a href="../contribute/contribute.html">CONTRIBUTE</a></h4></div>
+    <div id="nav3"><h4><a href="articles.html">ARTICLES</a></h4></div>
+    <div id="nav4"><h4><a href="../community/community.html">COMMUNITY</a></h4></div>
+    <div id="nav5"><h4><a href="../projects/projects.html">PROJECTS</a></h4></div>
+
+
+    <div id="main">
+      <!--<img src="" alt="">
+      <figcaption> Welcome </figcaption>-->
+      
+      <h2 id="atitle" style="text-align: center;
+			     margin-top: 2em;
+			     margin-left: 3em; 
+			     margin-right: 3em;
+			     margin-bottom: 2em;"> 
+        > Articles < 
+      </h2>
+
+      <h3 style="text-align: center;
+		 margin-left: 3em;
+		 margin-right: 3em;">
+	<a href="">Sputnik 1</a>
+      </h3>
+      
+      <br>
+      <br>
+    </div>
+    
+
+  </div>
+
+  <div id="footer">
+    OH MY SPACECRAFT © 2020 .. <a href="../contribute/contribute.html">Gift Knowledge</a>
+  </div>
+
+</body>
+
+</html>
